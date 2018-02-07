@@ -1,0 +1,56 @@
+/*#board {
+  margin-top: 10px;
+}*/
+
+.box {
+  border: 1px solid black;
+  border-style: solid;
+  height: 150px;
+}
+div.container {
+  background-color: #778899;
+  border-color: #43464B;
+  border-style: groove;
+  border-width: 15px;
+  padding-bottom: 63px;
+}
+.title {
+  font-family: 'Dhurjati', sans-serif;
+  font-weight: bolder;
+}
+button {
+    background-color: #191D20; /* Green */
+    border: thick;
+    border-style: double;
+    color: #43464B;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'Dhurjati', sans-serif;
+}
+.message {
+    font-size: 40px;
+    font-family: 'Dhurjati', sans-serif;
+}
+.text {
+    font-size: 80px;
+    font-family: 'Dhurjati', sans-serif;
+}
+.box {
+    border: 1px solid black;
+    border-style: ridge;
+    height: 150px;
+    border-color: black;
+    background-color: #35628B;
+    font-size: 90px;
+    font-family: 'Dhurjati', sans-serif;
+    font-color: blue;
+}
+hr {
+  color: black;
+}
+h1 {
+  font-size: 80px;
+}
